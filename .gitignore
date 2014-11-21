@@ -5,6 +5,9 @@ __pycache__/
 # C extensions
 *.so
 
+# python executable program
+*.pyc
+
 # Distribution / packaging
 .Python
 env/
@@ -52,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Mr Developer
+.idea

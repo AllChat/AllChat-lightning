@@ -1,0 +1,11 @@
+MySQL-python==1.2.5
+Paste==1.7.5.1
+Routes==2.0
+SQLAlchemy==0.9.8
+WebOb==1.4
+amqp==1.4.6
+anyjson==0.3.3
+eventlet==0.15.2
+greenlet==0.4.5
+itsdangerous==0.24
+kombu==3.0.23
