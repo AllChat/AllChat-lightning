@@ -41,3 +41,5 @@ HTTP_CODE = {
     'Gateway Timeout': '504',
     'HTTP Version Not Supported': '505'
 }
+
+g = None
